@@ -589,9 +589,13 @@ select:focus {
 .border-right {border-right: 1px solid #EFEFEF !important;}
 
 /****  Background Colors  ****/
+
+
 .bg-trans{ background:transparent !important; background-color:transparent ; }
 .bg-white{ background:#FFFFFF !important; background-color:#FFFFFF; }
 .bg-orange{ background:#FC7B08 !important; background-color:#FC7B08; }
+.bg-dark-blue{ background:#05023E !important; background-color:#05023E; }
+.bg-light-blue{ background:#1BA2EA !important; background-color:#1BA2EA; }
 .bg-brown{ background:#A66429 !important; background-color:#A66429; }
 .bg-gray{ background:#EAEEF1 !important; background-color:#EAEEF1; }
 .bg-grey{ background:#95989A !important;}
