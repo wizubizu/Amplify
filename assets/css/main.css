@@ -205,6 +205,7 @@ select:focus {
 .p-30 {padding:30px !important;}
 .p-40 {padding:40px !important;}
 .p-50 {padding:50px !important;}
+.p-60 {padding:60px !important;}
 .p-70 {padding:70px !important;}
 .p-80 {padding:80px !important;}
 .p-5p {padding:5% !important;}
@@ -314,6 +315,7 @@ select:focus {
 .p-l-194 {padding-left:194px !important;}
 .p-l-250 {padding-left:250px !important;}
 .p-l-260 {padding-left:260px !important;}
+.p-l-4p {padding-left:4% !important;}
 .p-l-20p {padding-left:20% !important;}
 .p-l-24p {padding-left:24% !important;}
 .p-l-30p {padding-left:30% !important;}
@@ -385,6 +387,8 @@ select:focus {
 .l-32 { left:32px !important; }
 .l-43 { left:43px !important; }
 .l-45 { left:45px !important; }
+.l-50 { left:50px !important; }
+.l-57 { left:57px !important; }
 .l-76 { left:76px !important; }
 .l-90 { left:90px !important; }
 .l-98 { left:98px !important; }
@@ -399,6 +403,7 @@ select:focus {
 .l-40p { left:40% !important; }
 .l-43p { left:43% !important; }
 .l-48p { left:48% !important; }
+.l-57p { left:57% !important; }
 .l-99p { left:99% !important; }
 
 /****  Right  ****/
@@ -500,6 +505,7 @@ select:focus {
 .width-280 {width:280px !important;}
 .width-300 {width:300px !important;}
 .width-310 {width:310px !important;}
+.width-330 {width:330px !important;}
 .width-331 {width:331px !important;}
 .width-340 {width:340px !important;}
 .width-342 {width:342px !important;}
@@ -508,16 +514,21 @@ select:focus {
 .width-370 {width:370px !important;}
 .width-395 {width:395px !important;}
 .width-400 {width:400px !important;}
+.width-410 {width:410px !important;}
 .width-430 {width:430px !important;}
 .width-455 {width:455px !important;}
 .width-494 {width:494px !important;}
 .width-500 {width:500px !important;}
+.width-520 {width:520px !important;}
 .width-540 {width:540px !important;}
+.width-550 {width:550px !important;}
 .width-570 {width:570px !important;}
 .width-580 {width:580px !important;}
 .width-584 {width:584px !important;}
+.width-590 {width:590px !important;}
 .width-600 {width:600px !important;}
 .width-615 {width:615px !important;}
+.width-625 {width:625px !important;}
 .width-650 {width:650px !important;}
 .width-651 {width:651px !important;}
 .width-665 {width:665px !important;}
@@ -701,6 +712,8 @@ select:focus {
 .h-105 { height:105px !important; }
 .h-109 { height:109px !important; }
 .h-125 { height:125px !important; }
+.h-150 { height:150px !important; }
+.h-170 { height:170px !important; }
 .h-250 { height:250px !important; }
 .h-200 { height:200px !important; }
 .h-289 { height:289px !important; }
